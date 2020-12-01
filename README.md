@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Newsletter Input - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Newsletter Input component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/newsletter-input)
+- [Info Page](https://codyhouse.co/ds/components/info/newsletter-input)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
